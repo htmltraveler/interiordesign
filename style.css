@@ -1,0 +1,241 @@
+.menu
+{
+ text-align:left;
+ position:fixed ;
+ top:0;
+ opacity:0.8;
+ width:20%;
+ background-color:#45015d;
+ border-radius:15px;
+ height:91%;
+ color:white;
+ padding:20px 20px ;
+ box-sizing:border-box; 
+ 
+}
+
+h1
+{
+ text-align:left;
+ font-size:64px;
+ font-weight:400;
+
+}
+
+
+.employer
+{
+
+ display:  inline-block;
+ width:32% ;
+ padding:4px ;
+}
+
+.designers
+{
+ opacity:70%;
+}
+
+.other
+{
+ width:60% ;
+ margin-left:30% ;
+}
+
+body
+{
+ margin:0;
+ font-family:"Poppins", sans-serif;
+}
+
+h3
+{
+    font-size:20px;
+}
+
+.menu a
+{
+ display:block;
+ padding:15px 4px;
+ color:inherit;
+ text-decoration:none;
+ font-size:16px;
+
+}
+
+.menu a:hover
+{
+ color:#F4A460 ;
+}
+
+h2
+{
+ color:#45015d;
+ font-size:48px;
+}
+
+hr
+{
+ border:5px #45015d solid ;
+ border-radius:20px;
+ margin-bottom:10px;
+ background-color:#45015d  ;
+}
+
+.gallery img
+{
+ width:45% ;
+ border-radius:7px;
+ margin:11px;
+ opacity: 0.7 ;
+}
+
+.gallery img:hover
+{
+ opacity:1;
+}
+
+
+
+
+span
+{
+ font-weight:bold;
+}
+
+li
+{
+ list-style-type:none ;
+ border-bottom:1px solid gray;
+ padding:10px 0px;
+ text-align: center;
+ background-color: #D3D3D3;
+}
+
+.tarif
+{
+ background-color:#45015d;
+ color:white;
+ border-radius:5px;
+}
+
+li a
+{
+ background-color:orangered;
+ color: white;
+ border-radius:5px;
+ text-decoration:none;
+ padding:4px 8px;
+}
+
+.prices ol
+{
+    width:45%;
+    display:inline-block;
+
+
+}
+
+
+
+.price 
+{
+ font-weight:bold;
+ font-size:28px ;
+}
+
+.period
+{
+ opacity: 50%;
+}
+
+.pro
+{
+ background-color:orangered ;
+}
+
+.Designers img
+{
+ width:100%;
+ border-radius:7px;
+ filter:grayscale(30%);
+}
+.Designers h4
+{
+ opacity:0.5 ;
+}
+
+
+.orange a
+{
+ background-color:orangered;
+}
+
+.white a
+{
+ background-color:white;
+ color:#45015d;
+}
+
+input,textarea
+{
+ padding: 6px;
+ margin: 7px 0px;
+ display:block;
+ width:100%;
+ box-sizing:border-box;
+}
+
+button
+{
+ border-radius:4px;
+ background-color:#45015d ;
+ color:white;
+ width:100%;
+ padding:9px ;
+ box-sizing:border-box ;
+
+}
+
+.copyright
+{
+ background-color:#DCDCDC;
+ text-align:right;
+ padding:9px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*
+ background-repeat:
+ repeat-x
+ repeat-y
+ no-repeat
+
+
+ background-postion
+ top
+ bottom
+ right
+ left
+ center
+*/
